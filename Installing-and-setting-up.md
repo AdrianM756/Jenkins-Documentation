@@ -59,15 +59,29 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 
 Once Entered, click on ***continue***.
 
-On the next section, We will use the default ***Install suggested plugins*** then wait for the installation to finish
+On the next section, We will use the default ***Install suggested plugins*** then wait for the installation to finish.
 
 ![image](https://github.com/user-attachments/assets/ce9a0398-b4cc-43f3-acbf-bcfc1f945ed6)
 <br>
 
 ![image](https://github.com/user-attachments/assets/e485a7a2-a55e-4bd2-a500-00e430495297)
+<br>
 
+## Creating the first admin user
 
+On this section, input your desired ***username***, ***Password***, ***Full Name***, and ***Email Address***. Once done, click on ***Save and Continue*** on the lower right side.
 
+![image](https://github.com/user-attachments/assets/cf32f037-80fe-4c01-ae6c-172ebacba0bc)
+<br>
+
+It will then prompt you to the next section which will show you the ***Jenkins URL*** to continue, click on ***Save and Finish*** on the lower right side.
+
+![image](https://github.com/user-attachments/assets/a43c05b9-aff5-443a-b2e7-22e33e256390)
+<br>
+
+If successful, It will then prompt you to the Jenkin's Dashboard.
+
+![image](https://github.com/user-attachments/assets/5936bb03-c26b-42c8-ba95-4f9dc6f7905b)
 
 
 
