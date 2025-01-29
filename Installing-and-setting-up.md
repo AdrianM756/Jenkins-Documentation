@@ -66,6 +66,7 @@ On the next section, We will use the default ***Install suggested plugins*** the
 
 ![image](https://github.com/user-attachments/assets/e485a7a2-a55e-4bd2-a500-00e430495297)
 <br>
+<br>
 
 ## Creating the first admin user
 
@@ -73,10 +74,12 @@ On this section, input your desired ***username***, ***Password***, ***Full Name
 
 ![image](https://github.com/user-attachments/assets/cf32f037-80fe-4c01-ae6c-172ebacba0bc)
 <br>
+<br>
 
 It will then prompt you to the next section which will show you the ***Jenkins URL*** to continue, click on ***Save and Finish*** on the lower right side.
 
 ![image](https://github.com/user-attachments/assets/a43c05b9-aff5-443a-b2e7-22e33e256390)
+<br>
 <br>
 
 If successful, It will then prompt you to the Jenkin's Dashboard.
