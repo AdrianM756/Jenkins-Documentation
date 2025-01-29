@@ -1,6 +1,6 @@
 ## Jenkins
 
-[Jenkins](https://www.jenkins.io/) an open source automation server which enables developers around the world to reliably build, test, and deploy their software.
+[Jenkins](https://www.jenkins.io/) Is an open source automation server which enables developers around the world to reliably build, test, and deploy their software.
 <br>
 
 ## Installation
@@ -23,10 +23,9 @@ sudo dnf install fontconfig java-17-openjdk
 sudo dnf install jenkins
 sudo systemctl daemon-reload
 ```
-
 For more info, you can visit this [link](https://www.jenkins.io/doc/book/installing/linux/#fedora) for more details.
 
-Let us try and install it again  using the ```yum install jenkins -y```. To check the version, we can use the command:
+To verify and check the version, we can use the command:
 
 ```
 jenkins --version
